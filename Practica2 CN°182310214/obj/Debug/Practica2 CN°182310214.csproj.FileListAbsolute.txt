@@ -1,0 +1,29 @@
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.exe.config
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.exe
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.pdb
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.csprojResolveAssemblyReference.cache
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\MainWindow.g.cs
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\App.g.cs
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214_MarkupCompile.cache
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214_MarkupCompile.lref
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\MainWindow.baml
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.g.resources
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2_CN_182310214.Properties.Resources.resources
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.csproj.GenerateResource.Cache
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.exe
+c:\users\christian\documents\visual studio 2015\Projects\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.pdb
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.exe.config
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.exe
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\bin\Debug\Practica2 CN°182310214.pdb
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.csprojAssemblyReference.cache
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\MainWindow.g.cs
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\App.g.cs
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214_MarkupCompile.cache
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214_MarkupCompile.lref
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\MainWindow.baml
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.g.resources
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2_CN_182310214.Properties.Resources.resources
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.csproj.GenerateResource.cache
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.csproj.CoreCompileInputs.cache
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.exe
+D:\Usuarios\Nei Yowane\Downloads\Practica2 CN°182310214\Practica2 CN°182310214\Practica2 CN°182310214\obj\Debug\Practica2 CN°182310214.pdb
